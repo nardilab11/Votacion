@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Votacion
 {
-    //contador de votos, persistencia
+    //contador de votos, la persistencia
     class PersistenciaDeVotos
     {
         private HashSet<Votante> _votantes;
